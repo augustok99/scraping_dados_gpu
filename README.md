@@ -48,3 +48,4 @@
    ```bash
    git clone https://github.com/augustok99/scraping_dados_gpu
 
+Nota: Removi o conteúdo da variavel url do arquivo, por acreditar ferir os termos de uso do site da empresa e temer consequências quanto ao uso de webscraping não autorizado. Por isso peço aos que forem utilizar dessa solução, que façam as adaptações necessárias conforme a sua demanda. Este projeto foi feito apenas com o intuito de mostrar as habilidades do autor e de contribuir para conteúdo sobre webscraping com a linguagem python.
