@@ -13,7 +13,7 @@
 
 
 <div align="center">
-   <img alt="IMG 1 do projeto" src="https://imgur.com/vnfp7Il.jpg" width="300px" style="margin-right: 20px; display: inline-block;">
+   <img alt="IMG 1 do projeto" src="https://imgur.com/vnfp7Il.jpeg" width="300px" style="margin-right: 20px; display: inline-block;">
     <img alt="IMG 2 do projeto" src="https://imgur.com/NleohOU.jpg" width="390px" style="display: inline-block;">
 </div>
 
